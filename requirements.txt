@@ -1,0 +1,1 @@
+oras @ git+https://github.com/brianwcook/oras-py@tuneable-chunk-sizing
